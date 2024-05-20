@@ -1,0 +1,14 @@
+.{
+    .name = "libxml2",
+    .version = "1.0.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+        "README.md",
+        "libxml2.zig",
+        "libxml2"
+    },
+    .dependencies = .{
+    },
+}
